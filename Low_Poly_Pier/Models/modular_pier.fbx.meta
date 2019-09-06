@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: eb743021eba234945b02a5b927d49c8f
+timeCreated: 1453045947
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: platform_01
+    100004: platform_02
+    100006: platform_03
+    100008: platform_04
+    100010: platform_05
+    100012: platform_06
+    100014: platform_07
+    100016: platform_double_01
+    100018: platform_double_02
+    100020: platform_low_01
+    100022: platform_low_02
+    100024: platform_low_03
+    100026: slope_01
+    100028: slope_02
+    100030: slope_03
+    100032: stairs_01
+    100034: stairs_02
+    400000: //RootNode
+    400002: platform_01
+    400004: platform_02
+    400006: platform_03
+    400008: platform_04
+    400010: platform_05
+    400012: platform_06
+    400014: platform_07
+    400016: platform_double_01
+    400018: platform_double_02
+    400020: platform_low_01
+    400022: platform_low_02
+    400024: platform_low_03
+    400026: slope_01
+    400028: slope_02
+    400030: slope_03
+    400032: stairs_01
+    400034: stairs_02
+    2300000: platform_01
+    2300002: platform_02
+    2300004: platform_03
+    2300006: platform_04
+    2300008: platform_05
+    2300010: platform_06
+    2300012: platform_07
+    2300014: platform_double_01
+    2300016: platform_double_02
+    2300018: platform_low_01
+    2300020: platform_low_02
+    2300022: platform_low_03
+    2300024: slope_01
+    2300026: slope_02
+    2300028: slope_03
+    2300030: stairs_01
+    2300032: stairs_02
+    3300000: platform_01
+    3300002: platform_02
+    3300004: platform_03
+    3300006: platform_04
+    3300008: platform_05
+    3300010: platform_06
+    3300012: platform_07
+    3300014: platform_double_01
+    3300016: platform_double_02
+    3300018: platform_low_01
+    3300020: platform_low_02
+    3300022: platform_low_03
+    3300024: slope_01
+    3300026: slope_02
+    3300028: slope_03
+    3300030: stairs_01
+    3300032: stairs_02
+    4300000: stairs_02
+    4300002: stairs_01
+    4300004: platform_low_03
+    4300006: platform_low_02
+    4300008: platform_low_01
+    4300010: platform_double_02
+    4300012: platform_double_01
+    4300014: slope_03
+    4300016: slope_02
+    4300018: slope_01
+    4300020: platform_05
+    4300022: platform_04
+    4300024: platform_07
+    4300026: platform_03
+    4300028: platform_06
+    4300030: platform_02
+    4300032: platform_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
