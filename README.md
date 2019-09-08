@@ -2,6 +2,8 @@
 
 > Oculus? I said octopus.
 
+![img](https://raw.githubusercontent.com/palle-k/SeeFood/master/Screenshot.jpg)
+
 SeeFood and TechCrunch combine your senses to give you the experience of eating food while having zero calories! (If you don't bite too hard)
 
 ### SeeFood
